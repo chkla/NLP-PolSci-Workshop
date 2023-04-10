@@ -1,5 +1,6 @@
 name: test
 author: me
+language: en
 date: date
 text: some text
 task: pos
