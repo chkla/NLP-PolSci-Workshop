@@ -1,0 +1,10 @@
+id: 2
+name: test
+author: me
+language: en
+date: date
+text: some text
+task: pos
+link: test.test
+paper: link to your paper
+comments: some additional comments
