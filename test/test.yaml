@@ -1,4 +1,8 @@
 name: test
 author: me
-prompt: some text
+date: date
+text: some text
+task: pos
 link: test.test
+paper: link to your paper
+comments: some additional comments
